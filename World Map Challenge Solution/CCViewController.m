@@ -18,6 +18,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    self.globeImageView = [[UIImageView alloc] initWithImage:<#(UIImage *)#>]
 }
 
 - (void)didReceiveMemoryWarning

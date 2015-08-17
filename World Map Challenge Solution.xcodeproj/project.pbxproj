@@ -21,6 +21,7 @@
 		96A1BD211B81E44E00D6C6BD /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 96A1BD031B81E44E00D6C6BD /* UIKit.framework */; };
 		96A1BD291B81E44E00D6C6BD /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 96A1BD271B81E44E00D6C6BD /* InfoPlist.strings */; };
 		96A1BD2B1B81E44E00D6C6BD /* World_Map_Challenge_SolutionTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 96A1BD2A1B81E44E00D6C6BD /* World_Map_Challenge_SolutionTests.m */; };
+		96A1BD351B81E4DD00D6C6BD /* worldMap.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 96A1BD341B81E4DD00D6C6BD /* worldMap.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		96A1BD261B81E44E00D6C6BD /* World Map Challenge SolutionTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "World Map Challenge SolutionTests-Info.plist"; sourceTree = "<group>"; };
 		96A1BD281B81E44E00D6C6BD /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		96A1BD2A1B81E44E00D6C6BD /* World_Map_Challenge_SolutionTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = World_Map_Challenge_SolutionTests.m; sourceTree = "<group>"; };
+		96A1BD341B81E4DD00D6C6BD /* worldMap.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = worldMap.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,7 @@
 		96A1BD061B81E44E00D6C6BD /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				96A1BD341B81E4DD00D6C6BD /* worldMap.jpeg */,
 				96A1BD071B81E44E00D6C6BD /* World Map Challenge Solution-Info.plist */,
 				96A1BD081B81E44E00D6C6BD /* InfoPlist.strings */,
 				96A1BD0B1B81E44E00D6C6BD /* main.m */,
@@ -232,6 +235,7 @@
 				96A1BD181B81E44E00D6C6BD /* Images.xcassets in Resources */,
 				96A1BD0A1B81E44E00D6C6BD /* InfoPlist.strings in Resources */,
 				96A1BD131B81E44E00D6C6BD /* Main.storyboard in Resources */,
+				96A1BD351B81E4DD00D6C6BD /* worldMap.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
